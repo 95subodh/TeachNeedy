@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766531864679",
+    "project_id": "firebase-teachneedy"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766531864679:android:ea1b2115312dba98",
+        "android_client_info": {
+          "package_name": "com.scm.subodhyadav.teachneedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766531864679-d10s6pkpuqjleutrpeqmsj8qhu8050ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scm.subodhyadav.teachneedy",
+            "certificate_hash": "EDFAA05ADD31ADFA55D8E08002D54E755C9A9038"
+          }
+        },
+        {
+          "client_id": "766531864679-l43b7bbcknv9obj8acb83rs74hdoq8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSX1MhtOYO5u2SFSL07dCD2XhGD-Yf5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
